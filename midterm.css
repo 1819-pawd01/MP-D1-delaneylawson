@@ -1,0 +1,47 @@
+/*
+* Name 
+* Due date 
+* project Name and description
+*/
+
+/* the universal selector */
+
+*{
+
+}
+
+/* Body Attributes here */
+
+body {
+    background-color: black;
+    color: aliceblue;
+    font-family:fantasy;
+    font-size: 12px;
+}
+footer {
+    font-style: italic
+}
+a {
+    text-decoration: underline;
+    text-decoration: overline;
+}
+h1 {
+    text-align: center;
+    text-transform: uppercase;
+    color: beige
+}
+
+h2 {
+    text-transform: lowercase;
+    font-style: italic;
+}
+
+h3 {
+    text-transform: lowercase;
+    font-style: italic;
+}
+
+h4 {
+
+    text-transform: lowercase;
+    font-style: italic;
